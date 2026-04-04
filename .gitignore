@@ -1,0 +1,9 @@
+# Ignore compiled files *.pyc *.class *.exe 
+# Ignore environment fils
+.env
+.virtualenv
+#Ignore IDE files
+.vscode/
+.idea/
+# Ignore log files
+.log
