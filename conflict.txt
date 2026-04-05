@@ -1,0 +1,2 @@
+If you choose a template, GitHub adds a header to the file. 
+This metadata is what allows GitHub to show the "MIT" or "GPL-3.0" label on your repository’s homepage.
