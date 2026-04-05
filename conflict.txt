@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from feature branch
+=======
+Line from main branch
+>>>>>>> master
